@@ -1,0 +1,5 @@
+[package]
+name = "rc-lang"
+version = "0.1.0"
+edition = "2021"
+authors = ["Rahul Chaube <rahulchaube900@gmail.com>"]

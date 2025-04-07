@@ -1,0 +1,7 @@
+ask name
+show "Welcome"
+show name
+set x to 5
+repeat 3 times show "Looping..."
+if name is Rahul then show "You are the creator"
+print Hello, world!
