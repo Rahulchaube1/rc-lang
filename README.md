@@ -17,6 +17,7 @@
 
 `rc` stands for **Rahul Code** — a natural, simple, and intuitive interpreted language built with ❤️ in Rust.  
 It lets you write code that feels more like English, removing barriers for new programmers.
+https://rahulchaube1.github.io/rc-lang-website/
 
 ---
 
