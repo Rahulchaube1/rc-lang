@@ -24,7 +24,7 @@ https://rahulchaube1.github.io/rc-lang-website/
 ## 🔍 Example Code
 
 ```rc
-ask name
+rahul chaube
 show "Welcome"
 show name
 set x to 5
